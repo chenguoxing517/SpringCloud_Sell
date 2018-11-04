@@ -13,5 +13,5 @@ eureka:
 env:
   test1
 girl:
-  name: lili
-  age: 18
+  name: zhangsan
+  age: 22
